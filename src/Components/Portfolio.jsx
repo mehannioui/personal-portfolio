@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FlashFizz 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "FlashFizz is a social media web app for sharing content with limited time. A combination of Twitter and Snapshat. Check it out at FlashFizz.com",
+    url: "https://github.com/mehannioui/FlashFizz",
   },
   {
     title: "Web Development for Beginners",
